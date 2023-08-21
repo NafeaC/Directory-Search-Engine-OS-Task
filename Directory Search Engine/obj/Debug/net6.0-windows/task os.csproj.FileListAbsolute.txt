@@ -1,0 +1,34 @@
+C:\Nafea\program project\c#\task os\task os\bin\Debug\net6.0-windows\task os.exe
+C:\Nafea\program project\c#\task os\task os\bin\Debug\net6.0-windows\task os.deps.json
+C:\Nafea\program project\c#\task os\task os\bin\Debug\net6.0-windows\task os.runtimeconfig.json
+C:\Nafea\program project\c#\task os\task os\bin\Debug\net6.0-windows\task os.dll
+C:\Nafea\program project\c#\task os\task os\bin\Debug\net6.0-windows\task os.pdb
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.csproj.AssemblyReference.cache
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task_os.Form1.resources
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.csproj.GenerateResource.cache
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.AssemblyInfoInputs.cache
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.AssemblyInfo.cs
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.csproj.CoreCompileInputs.cache
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.dll
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\refint\task os.dll
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.pdb
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\task os.genruntimeconfig.cache
+C:\Nafea\program project\c#\task os\task os\obj\Debug\net6.0-windows\ref\task os.dll
+C:\Nafea\programming\c#\task os\task os\bin\Debug\net6.0-windows\task os.exe
+C:\Nafea\programming\c#\task os\task os\bin\Debug\net6.0-windows\task os.deps.json
+C:\Nafea\programming\c#\task os\task os\bin\Debug\net6.0-windows\task os.runtimeconfig.json
+C:\Nafea\programming\c#\task os\task os\bin\Debug\net6.0-windows\task os.dll
+C:\Nafea\programming\c#\task os\task os\bin\Debug\net6.0-windows\task os.pdb
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.csproj.AssemblyReference.cache
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task_os.Form1.resources
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.csproj.GenerateResource.cache
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.AssemblyInfoInputs.cache
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.AssemblyInfo.cs
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.csproj.CoreCompileInputs.cache
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.dll
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\refint\task os.dll
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.pdb
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\task os.genruntimeconfig.cache
+C:\Nafea\programming\c#\task os\task os\obj\Debug\net6.0-windows\ref\task os.dll
